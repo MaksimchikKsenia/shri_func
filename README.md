@@ -16,4 +16,4 @@
 - [Документация Ramda](https://ramdajs.com/docs/)
 - [Код с практикума](https://github.com/MoonW1nd/fp-live-coding)
 
-  ##По всем вопросам пишите в тг @kseniamaksimchik
+  ## По всем вопросам пишите в тг @kseniamaksimchik
